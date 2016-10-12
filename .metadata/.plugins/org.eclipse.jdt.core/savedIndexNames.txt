@@ -1,0 +1,9 @@
+INDEX VERSION 1.129+C:\Users\Loredana\Desktop\Temã-Coroamã Loredana-grupa 30211-POO\.metadata\.plugins\org.eclipse.jdt.core
+471236001.index
+1104901523.index
+927249800.index
+414978335.index
+2133282975.index
+1078166814.index
+351221734.index
+1644702904.index
